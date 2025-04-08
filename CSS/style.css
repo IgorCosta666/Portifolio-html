@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
+#sobre {
+    background-color: blue;
+}
+
+#co {
+    background-color: yellow;
+}
+
+#h {
+    background-color: blueviolet;
+}
+
+.div1 {
+    background-color: pink;
+    display: flex;
+}
